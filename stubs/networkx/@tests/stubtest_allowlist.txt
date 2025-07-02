@@ -1,5 +1,3 @@
-:35
-35
 # overloaded class-decorators are not properly supported in type-checkers:
 # - mypy: https://github.com/python/mypy/issues/16840
 # - pyright: https://github.com/microsoft/pyright/issues/7167
